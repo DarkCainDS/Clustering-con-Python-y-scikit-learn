@@ -1,0 +1,16 @@
+Ventajas
+No necesitas conocer K
+Simple
+Resultado interpretable
+Única ejecución
+Ayuda visual con dendograma
+Desventajas
+Mal performance en datasets largos
+Sin objetivo matemático
+Los outliers le afectan
+Mayor necesidad de cómputo
+¿Cuándo usarlo?
+Comprender resultados visualmente
+Dataset es pequeño
+Desconozco el número de clusters
+Resultado rápido

@@ -1,0 +1,6 @@
+Método Ward
+Se utiliza en agrupamiento jerárquico de tipo Aglomerativo.
+Por tanto, es un criterio para indicar como se deben aglomerar los clusters.
+Su criterio fundamental es el de mínima varianza, es decir, su objetivo es que tras agrupar y conseguir nuevos clusters, La varianza dentro de cada cluster se la mínima posible. La función a minimizar es entonces, la suma de las varianzas de cada cluster.
+Según lo anterior, en cada iteración, el algoritmo clusteriza de manera que se genere el menor aumento de varianza a la varianza total.
+Fuente: Statitstics.com

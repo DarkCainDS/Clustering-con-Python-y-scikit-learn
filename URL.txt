@@ -1,0 +1,2 @@
+https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
+https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis

@@ -1,0 +1,5 @@
+Un par de observaciones que pueden servir.
+
+Kmeans es un método basado en “distancias”, luego el calculo en cada iteracion se puede ver afectado ante la existencia de outliers.
+Es costoso a nivel computacional cuando la cantidad de datos aumenta, ya que implica comparar cada dato con todos los demás.
+Tiene un problema grave y es que a cada punto NECESARIAMENTE lo ubica dentro de un cluster. Si tenemos un outlier nunca lo vamos a percibir por que lo va a asignar a un cluster
